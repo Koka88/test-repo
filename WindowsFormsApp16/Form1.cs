@@ -16,5 +16,7 @@ namespace WindowsFormsApp16
         {
             InitializeComponent();
         }
+        public test()
+        {}
     }
 }
